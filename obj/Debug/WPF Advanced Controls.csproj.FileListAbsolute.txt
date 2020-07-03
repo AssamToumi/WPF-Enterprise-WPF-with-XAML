@@ -1,0 +1,54 @@
+B:\Sources\WPF Advanced Controls\obj\Debug\WPF Advanced Controls.csprojAssemblyReference.cache
+B:\Sources\WPF Advanced Controls\obj\Debug\MainWindow.g.cs
+B:\Sources\WPF Advanced Controls\obj\Debug\App.g.cs
+B:\Sources\WPF Advanced Controls\obj\Debug\WPF Advanced Controls_MarkupCompile.cache
+B:\Sources\WPF Advanced Controls\obj\Debug\WPF Advanced Controls_MarkupCompile.lref
+B:\Sources\WPF Advanced Controls\bin\Debug\WPF Advanced Controls.exe.config
+B:\Sources\WPF Advanced Controls\bin\Debug\WPF Advanced Controls.exe
+B:\Sources\WPF Advanced Controls\bin\Debug\WPF Advanced Controls.pdb
+B:\Sources\WPF Advanced Controls\obj\Debug\MainWindow.baml
+B:\Sources\WPF Advanced Controls\obj\Debug\WPF Advanced Controls.g.resources
+B:\Sources\WPF Advanced Controls\obj\Debug\WPF_Advanced_Controls.Properties.Resources.resources
+B:\Sources\WPF Advanced Controls\obj\Debug\WPF Advanced Controls.csproj.GenerateResource.cache
+B:\Sources\WPF Advanced Controls\obj\Debug\WPF Advanced Controls.exe
+B:\Sources\WPF Advanced Controls\obj\Debug\WPF Advanced Controls.pdb
+B:\Sources\WPF Advanced Controls\obj\Debug\DataGrid.g.cs
+B:\Sources\WPF Advanced Controls\obj\Debug\Menu.g.cs
+B:\Sources\WPF Advanced Controls\obj\Debug\DataGrid.baml
+B:\Sources\WPF Advanced Controls\obj\Debug\Menu.baml
+B:\Sources\WPF Advanced Controls\obj\Debug\WPF Advanced Controls.csproj.CoreCompileInputs.cache
+B:\Sources\WPF Advanced Controls\obj\Debug\StatusBar.g.cs
+B:\Sources\WPF Advanced Controls\obj\Debug\StatusBar.baml
+B:\Sources\WPF Advanced Controls\obj\Debug\TreeView.g.cs
+B:\Sources\WPF Advanced Controls\obj\Debug\TreeView.baml
+B:\Sources\WPF Advanced Controls\obj\Debug\Shapes.g.cs
+B:\Sources\WPF Advanced Controls\obj\Debug\TabControl.g.cs
+B:\Sources\WPF Advanced Controls\obj\Debug\Shapes.baml
+B:\Sources\WPF Advanced Controls\obj\Debug\TabControl.baml
+B:\Sources\WPF Advanced Controls\obj\Debug\Grid.g.cs
+B:\Sources\WPF Advanced Controls\obj\Debug\Grid.baml
+B:\Sources\WPF Advanced Controls\obj\Debug\Canvas.g.cs
+B:\Sources\WPF Advanced Controls\obj\Debug\DockPanel.g.cs
+B:\Sources\WPF Advanced Controls\obj\Debug\StackPanel.g.cs
+B:\Sources\WPF Advanced Controls\obj\Debug\WrapPanel.g.cs
+B:\Sources\WPF Advanced Controls\obj\Debug\Canvas.baml
+B:\Sources\WPF Advanced Controls\obj\Debug\DockPanel.baml
+B:\Sources\WPF Advanced Controls\obj\Debug\StackPanel.baml
+B:\Sources\WPF Advanced Controls\obj\Debug\WrapPanel.baml
+B:\Sources\WPF Advanced Controls\obj\Debug\Events.g.cs
+B:\Sources\WPF Advanced Controls\obj\Debug\Form.g.cs
+B:\Sources\WPF Advanced Controls\obj\Debug\INPC.g.cs
+B:\Sources\WPF Advanced Controls\obj\Debug\Lists.g.cs
+B:\Sources\WPF Advanced Controls\obj\Debug\Events.baml
+B:\Sources\WPF Advanced Controls\obj\Debug\Form.baml
+B:\Sources\WPF Advanced Controls\obj\Debug\INPC.baml
+B:\Sources\WPF Advanced Controls\obj\Debug\Lists.baml
+B:\Sources\WPF Advanced Controls\obj\Debug\Convert.g.cs
+B:\Sources\WPF Advanced Controls\obj\Debug\Element.g.cs
+B:\Sources\WPF Advanced Controls\obj\Debug\OneWay.g.cs
+B:\Sources\WPF Advanced Controls\obj\Debug\TwoWay.g.cs
+B:\Sources\WPF Advanced Controls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+B:\Sources\WPF Advanced Controls\obj\Debug\Convert.baml
+B:\Sources\WPF Advanced Controls\obj\Debug\Element.baml
+B:\Sources\WPF Advanced Controls\obj\Debug\OneWay.baml
+B:\Sources\WPF Advanced Controls\obj\Debug\TwoWay.baml

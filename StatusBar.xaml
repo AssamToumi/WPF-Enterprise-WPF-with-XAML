@@ -1,0 +1,42 @@
+﻿<Window x:Class="WPF_Advanced_Controls.StatusBar"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="StatusBar" Height="450" Width="800">
+    <Grid>
+        <StatusBar Name="StatusBarLoading"
+                   VerticalAlignment="Bottom"
+                   Background="Beige">
+            <StatusBarItem>
+                <TextBlock Text="Donwnloading File"/>
+            </StatusBarItem>
+            <StatusBarItem>
+                <ProgressBar Width="100" 
+                             Height="20"
+                             Name="progressBar">
+                    <ProgressBar.Triggers>
+                        <EventTrigger RoutedEvent="Loaded">
+                            <BeginStoryboard>
+                                <Storyboard>
+                                    <DoubleAnimation Storyboard.TargetName="progressBar"
+                                                 Storyboard.TargetProperty="Value"
+                                                 From="0"
+                                                 To="100"
+                                                 Duration="0:0:10"/>
+                                </Storyboard>
+                            </BeginStoryboard>
+                        </EventTrigger>
+                    </ProgressBar.Triggers>
+                </ProgressBar>
+            </StatusBarItem>
+            <Separator></Separator>
+            <StatusBarItem>
+                <TextBlock>Online</TextBlock>
+            </StatusBarItem>
+            <StatusBarItem HorizontalAlignment="Right" >
+                <Button Content="Help" 
+                        Name="Help"
+                        Click="Help_Click"/>
+            </StatusBarItem>
+        </StatusBar>
+    </Grid>
+</Window>

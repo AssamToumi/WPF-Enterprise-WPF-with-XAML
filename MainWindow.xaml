@@ -1,0 +1,39 @@
+﻿<Window x:Class="WPF_Advanced_Controls.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_Advanced_Controls"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="650">
+    <Grid Background="{DynamicResource {x:Static SystemColors.GradientInactiveCaptionBrushKey}}">
+
+        <GroupBox Header="Advanced Controls" HorizontalAlignment="Left" Height="215" Margin="15,17,0,0" VerticalAlignment="Top" Width="135" Background="{DynamicResource {x:Static SystemColors.GradientInactiveCaptionBrushKey}}"></GroupBox>
+        <Button Content="DataGrid" Click="Button_Click" Height="32" HorizontalAlignment="Left" Name="button1" VerticalAlignment="Top" Width="95" Margin="25,47,0,0"/>
+        <Button Content="Menu" Click="Button2_Click" Height="32" HorizontalAlignment="Left" Name="button2" VerticalAlignment="Top" Width="95" Margin="25,83,0,0"/>
+        <Button Content="StatusBar" Click="Button3_Click" Height="32" HorizontalAlignment="Left" Name="button3" VerticalAlignment="Top" Width="95" Margin="25,120,0,0"/>
+        <Button Content="TreeView" Click="Button4_Click" Height="32" HorizontalAlignment="Left" Name="button4" VerticalAlignment="Top" Width="95" Margin="25,156,0,0"/>
+        <Button Content="TabControl" Click="Button5_Click" Height="32" HorizontalAlignment="Left" Name="button5" VerticalAlignment="Top" Width="95" Margin="25,191,0,0"/>
+
+        <GroupBox Header="Animation" HorizontalAlignment="Left" Height="78" Margin="165,17,0,0" VerticalAlignment="Top" Width="135" Background="{DynamicResource {x:Static SystemColors.GradientInactiveCaptionBrushKey}}"/>
+        <Button Content="Shapes" Click="Button6_Click" Height="32" HorizontalAlignment="Left" Name="button6" VerticalAlignment="Top" Width="95" Margin="177,48,0,0"/>
+        <GroupBox Header="Panels" HorizontalAlignment="Left" Height="215" Margin="320,17,0,0" VerticalAlignment="Top" Width="135" Background="{DynamicResource {x:Static SystemColors.GradientInactiveCaptionBrushKey}}"/>
+        <Button Content="Grid Panel" Click="Button7_Click" Height="32" HorizontalAlignment="Left" Name="button7" VerticalAlignment="Top" Width="95" Margin="332,46,0,0"/>
+        <Button Content="Stack Panel" Click="Button8_Click" Height="32" HorizontalAlignment="Left" Name="button8" VerticalAlignment="Top" Width="95" Margin="332,81,0,0"/>
+        <Button Content="Canvas" Click="Button9_Click" Height="32" HorizontalAlignment="Left" Name="button9" VerticalAlignment="Top" Width="95" Margin="332,116,0,0"/>
+        <Button Content="Dock Panel" Click="Button10_Click" Height="32" HorizontalAlignment="Left" Name="button10" VerticalAlignment="Top" Width="95" Margin="332,153,0,0"/>
+        <Button Content="Wrap Panel" Click="Button11_Click" Height="32" HorizontalAlignment="Left" Name="button11" VerticalAlignment="Top" Width="95" Margin="332,189,0,0"/>
+        <GroupBox Header="Controls" HorizontalAlignment="Left" Height="117" Margin="165,115,0,0" VerticalAlignment="Top" Width="135" Background="{DynamicResource {x:Static SystemColors.GradientInactiveCaptionBrushKey}}"></GroupBox>
+        <Button Content="Events" Click="Button12_Click" Height="32" HorizontalAlignment="Left" Name="button12" VerticalAlignment="Top" Width="95" Margin="177,154,0,0"/>
+        <Button Content="Form" Click="Button13_Click" Height="32" HorizontalAlignment="Left" Name="button13" VerticalAlignment="Top" Width="95" Margin="177,189,0,0"/>
+        <GroupBox Header="Data Binding" HorizontalAlignment="Left" Height="255" Margin="477,17,0,0" VerticalAlignment="Top" Width="135" Background="{DynamicResource {x:Static SystemColors.GradientInactiveCaptionBrushKey}}"></GroupBox>
+        <Button Content="INBC" Click="Button14_Click" Height="32" HorizontalAlignment="Left" Name="button14" VerticalAlignment="Top" Width="95" Margin="491,46,0,0"/>
+        <Button Content="Lists" Click="Button15_Click" Height="32" HorizontalAlignment="Left" Name="button15" VerticalAlignment="Top" Width="95" Margin="491,81,0,0"/>
+        <Button Content="OneWay" Click="Button16_Click" Height="32" HorizontalAlignment="Left" Name="button16" VerticalAlignment="Top" Width="95" Margin="491,116,0,0"/>
+        <Button Content="TwoWay" Click="Button17_Click" Height="32" HorizontalAlignment="Left" Name="button17" VerticalAlignment="Top" Width="95" Margin="491,153,0,0"/>
+        <Button Content="Convert" Click="Button18_Click" Height="32" HorizontalAlignment="Left" Name="button18" VerticalAlignment="Top" Width="96" Margin="491,226,0,0"/>
+        <Button Content="Element" Click="Button19_Click" Height="32" HorizontalAlignment="Left" Name="button19" VerticalAlignment="Top" Width="95" Margin="491,189,0,0"/>
+        <Label Content="Enterprise WPF with XAML and Csharp" HorizontalAlignment="Left" Height="35" Margin="120,258,0,0" VerticalAlignment="Top" Width="335" FontSize="16" BorderBrush="{DynamicResource {x:Static SystemColors.ActiveBorderBrushKey}}"/>
+
+    </Grid>
+</Window>
